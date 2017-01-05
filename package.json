@@ -1,0 +1,25 @@
+{
+  "name": "turleneck",
+  "version": "0.0.1",
+  "description": "A hipster frontend library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jpadamsonline/turtleneck.git"
+  },
+  "keywords": [
+    "hipster",
+    "frontend",
+    "library",
+    "turtleneck"
+  ],
+  "author": "jpadamsonline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpadamsonline/turtleneck/issues"
+  },
+  "homepage": "https://github.com/jpadamsonline/turtleneck#readme"
+}
